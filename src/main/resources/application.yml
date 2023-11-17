@@ -5,5 +5,5 @@ spring:
     database-platform: org.hibernate.dialect.SQLServerDialect
   datasource:
     username: sa
-    password: Antares@1
+    password: AlphaRegulus@1
     url: jdbc:sqlserver://localhost:1433;encrypt=true;trustServerCertificate=true;
